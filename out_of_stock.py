@@ -10,10 +10,10 @@ str1=el.text
 if(str1.find("Currently unavailable.")!=-1):
     print("its still not available my guy")
 else: 
-    #client.messages.create(to="+919789813179", 
-                       #from_="+17733668813", 
+    #client.messages.create(to="+xxxxxxxxxxxx", 
+                       #from_="+xxxxxxxxxxxx", 
                        #body="its available")      
-  
+  #create a twillio account and use the assigned "from" number
 driver.close()
 
 
