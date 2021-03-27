@@ -19,6 +19,8 @@
 • Sends you a text a message if and when it becomes available<br>
 • Twillio api has some copyright issues so code has been commented there
 
+Generate your APPI key on twilio.com 
+Do NOT share your API key as it gets flagged.
 </td>
 </tr>
 </table>
